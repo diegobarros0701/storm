@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/diegobarros0701/storm",
   "author": "Diego Barros",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
