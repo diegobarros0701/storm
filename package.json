@@ -1,0 +1,9 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "STORM is an Active Record ORM for Typescript projects",
+  "main": "index.js",
+  "repository": "https://github.com/diegobarros0701/storm",
+  "author": "Diego Barros",
+  "license": "MIT"
+}
